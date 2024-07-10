@@ -1,0 +1,15 @@
+### **About this app**
+
+#### This app was developed by [Junheng Zhao](https://github.com/zhaojhweb/). It is mainly used for gene co-expression analysis.
+
+### **How to use this app**
+
+#### First, you need to use any of the modules in the Cluster menu to process your expression data and eliminate outliers to ensure reliable results. 
+
+#### The co-expression analysis is then performed using any of the modules in the NetWork menu. 
+
+#### It's important to note that you'll need to read the prompts carefully to make sure that your input file format is read correctly.
+
+### **Declaration**
+
+#### The sample data in the software is sourced from the website [BarleyExpDB](http://barleyexp.com/). The results analyzed from the sample data are for demonstration purposes only and do not carry any research significance.

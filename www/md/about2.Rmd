@@ -1,0 +1,59 @@
+### **Packages used in this app**
+
+-   [`shiny`](https://cran.r-project.org/web/packages/shiny/index.html)
+
+-   [`ggplot2`](https://cran.r-project.org/web/packages/ggplot2/index.html)
+
+-   [`shinydisconnect`](https://cran.r-project.org/web/packages/shinydisconnect/index.html)
+
+-   [`shinythemes`](https://cran.r-project.org/web/packages/shinythemes/index.html)
+
+-   [`htmltools`](https://cran.r-project.org/web/packages/htmltools/index.html)
+
+-   [`shinycustomloader`](https://cran.r-project.org/web/packages/shinycustomloader/index.html)
+
+-   [`shinyWidgets`](https://cran.r-project.org/web/packages/shinyWidgets/index.html)
+
+-   [`bsplus`](https://cran.r-project.org/web/packages/bsplus/index.html)
+
+-   [`shinysky`](https://github.com/AnalytixWare/ShinySky)
+
+-   [`officer`](https://cran.r-project.org/web/packages/officer/index.html)
+
+-   [`rvg`](https://cran.r-project.org/web/packages/rvg/index.html)
+
+-   [`MASS`](https://cran.r-project.org/web/packages/MASS/index.html)
+
+-   [`ggpubr`](https://cran.r-project.org/web/packages/ggpubr/index.html)
+
+-   [`dplyr`](dplyr)
+
+-   [`Rtsne`](https://cran.r-project.org/web/packages/Rtsne/index.html)
+
+-   [`PCAtools`](https://www.bioconductor.org/packages/release/bioc/html/PCAtools.html)
+
+-   [`minet`](https://bioconductor.org/packages/release/bioc/html/minet.html)
+
+-   [`DT`](https://cran.r-project.org/web/packages/DT/index.html)
+
+-   [`readr`](https://cran.r-project.org/web/packages/readr/index.html)
+
+-   [`writexl`](https://cran.r-project.org/web/packages/writexl/index.html)
+
+-   [`reshape2`](https://cran.r-project.org/web/packages/reshape2/index.html)
+
+-   [`visNetwork`](https://cran.r-project.org/web/packages/visNetwork/index.html)
+
+-   [`parallel`](https://cran.r-project.org/web/packages/parallelly/index.html)
+
+-   [`GENIE3`](https://bioconductor.org/packages/release/bioc/html/GENIE3.html)
+
+-   [`MEGENA`](MEGENA)
+
+-   [`WGCNA`](https://cran.r-project.org/web/packages/WGCNA/index.html)
+
+-   [`genefilter`](https://bioconductor.org/packages/release/bioc/html/genefilter.html)
+
+-   [`cowplot`](https://cran.r-project.org/web/packages/cowplot/index.html)
+
+-   [`ggthemes`](https://cran.r-project.org/web/packages/ggthemes/index.html)

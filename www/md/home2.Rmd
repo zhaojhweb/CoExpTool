@@ -1,0 +1,9 @@
+-   **Hcluster：Hierarchical clustering**
+
+-   **MDS：MultiDimensional Scaling**
+
+-   **PCA：Principal Component Analysis**
+
+-   **TSNE：T-Distribution Stochastic Neighbour Embedding**
+
+## 

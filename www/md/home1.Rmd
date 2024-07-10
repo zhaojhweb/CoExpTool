@@ -1,0 +1,5 @@
+#### **➤Note!**
+
+#### **1、If you are a new user, you must first register an account before you can use this software normally.**
+
+#### **2、During the usage process, it generally requires you to first screen your expression matrix through the Hcluster module, and then proceed with network construction.**

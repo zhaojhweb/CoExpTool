@@ -1,0 +1,45 @@
+Package: CoExpTool
+Title: An Amazing Shiny App
+Version: 1.0
+Authors@R: 
+    person(given = "JunHeng",
+           family = "Zhao",
+           role = c("aut", "cre"),
+           email = "zhaojh96@outlook.com")
+Description: Gene co-expression network analysis.
+License: GNU General Public License v3.0
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.8.1.1),
+    ggplot2,
+    shinydisconnect,
+    shinythemes,
+    htmltools,
+    shinycustomloader,
+    shinyWidgets,
+    bsplus,
+    shinysky,
+    officer,
+    rvg,
+    MASS,
+    ggpubr,
+    dplyr,
+    Rtsne,
+    PCAtools,
+    minet,
+    DT,
+    readr,
+    writexl,
+    reshape2,
+    visNetwork,
+    parallel,
+    GENIE3,
+    MEGENA,
+    WGCNA,
+    genefilter,
+    cowplot,
+    ggthemes
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
