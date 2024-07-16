@@ -165,7 +165,7 @@ mod_tsne_server <- function(input, output, session) {
         selectInput(
           inputId = ns("TSNE_ellipse_type"),
           label = h4(HTML('<i class="fa fa-circle" aria-hidden="true"></i> <font size="3" color="black"><b>Ellipse type</b></font>')),
-          choices = c("confidence", "convex", "euclid", "norm", "t"),
+          choices = c("confidence", "convex", "norm", "t"),
           selected = "confidence"
         ) 
       )
