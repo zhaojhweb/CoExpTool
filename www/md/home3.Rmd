@@ -2,6 +2,6 @@
 
 -   **MEGENA：Multiscale Embedded Gene Co-expression Network Analysis**
 
--   **MINET：Mutual Information NETworks**
+-   **MINET：Mutual Information NETworks inference**
 
 -   **WGCNA：Weighted Correlation Network Analysis**
